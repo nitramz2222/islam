@@ -1,0 +1,24 @@
+body {
+    background: url(dddd.jpg);
+  }
+p {
+  color: gainsboro;
+}
+h1 {
+  font-weight: 100;
+  text-align: center;
+  font-family: fantasy;
+  color: darkgreen;
+  font-size: 150px;
+  color: gainsboro;
+}
+p {
+  font-family: fantasy;
+  font-size: 50px;
+  text-align: left;
+  color: limegreen;
+}
+h2 {
+  font-family: fantasy;
+  text-align: left;
+  font-size: 100px

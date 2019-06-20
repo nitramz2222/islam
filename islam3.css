@@ -1,0 +1,28 @@
+body {
+background: url(back5.JPG);
+
+
+
+
+}
+p {
+  color:darkorange;
+
+  font-family: sans-serif;
+  font-weight: 700;
+}
+h1 {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: underline;
+  color:darkorange;
+
+}
+img {
+
+  width:400px;
+  margin: 20px;
+
+}
+iframe {
+  width: auto
